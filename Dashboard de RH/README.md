@@ -1,8 +1,6 @@
 # Dashboard de Recursos Humanos
 
-![image](https://github.com/moniquecardoso25/PowerBI-Portuguese/assets/140358716/1c116578-8a3f-408a-9868-b6a5e67a5ded)
-
-
+![image](https://github.com/moniquecardoso25/PowerBI-Portuguese/assets/140358716/c2ab2907-4771-4fa4-858b-c349cf389cec)
 
 [Link do Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmU2ZjQwYjAtMDlhYS00ODE4LWE2NTMtMjNmOTU1MDBmNThjIiwidCI6IjI4ZTljMzRmLTc2NTQtNDAwMi05Njg0LTdhNmQ1YWI2M2EwMSJ9)
 
