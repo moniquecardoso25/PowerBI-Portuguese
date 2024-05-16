@@ -4,8 +4,7 @@
 
 
 
-[Link do Dashboard](https://app.powerbi.com/viewr=eyJrIjoiMmZlNzI3ZmMtNzFhNy00ZWE5LWIzMjItYjEyMTNlMjM2NmI3IiwidCI6ImM5ZWIwMzlkLWM5YzUtNDE4NC1hZGIzLTRmMWZiNDA1YmE3ZCJ9)
-
+[Link do Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmU2ZjQwYjAtMDlhYS00ODE4LWE2NTMtMjNmOTU1MDBmNThjIiwidCI6IjI4ZTljMzRmLTc2NTQtNDAwMi05Njg0LTdhNmQ1YWI2M2EwMSJ9)
 
 
 ## Objetivo
